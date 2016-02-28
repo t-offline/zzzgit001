@@ -1,0 +1,10 @@
+total 64
+drwxr-xr-x  3 ff ff  4096 Feb 28 15:51 .
+drwxr-xr-x 15 ff ff  4096 Feb 28 15:42 ..
+-rw-r--r--  1 ff ff    10 Feb 28 15:50 file001.txt
+-rw-r--r--  1 ff ff    46 Feb 28 15:42 file002.txt
+-rw-r--r--  1 ff ff     0 Feb 28 15:51 file003.txt
+drwxr-xr-x  8 ff ff  4096 Feb 28 15:50 .git
+-rw-r--r--  1 ff ff    51 Feb 28 15:23 .gitignore
+-rw-r--r--  1 ff ff 35141 Feb 28 15:23 LICENSE
+-rw-r--r--  1 ff ff    69 Feb 28 15:23 README.md
